@@ -3,34 +3,15 @@
 // a = 5; b = 7 ->  max = 7, min = 5
 // a = -9 b = -3 -> max = -3, min = -9
 
-Console.WriteLine("первые max и min");
-int a = 5;
-int b = 7;
-
-int max = a;
-int min = b;
-
-if (b > max) max = b;
-if (min > a) min = a;
-
-Console.Write("max=");
-Console.WriteLine(max);
-Console.Write("min=");
-Console.WriteLine(min);
-
-// a = -9 b = -3 -> max = -3, min = -9
-
-Console.WriteLine("вторые max и min");
-int a1 = -9;
-int b1 = -3;
-
-int max1 = a1;
-int min1 = b1;
-
-if (b1 > max1) max1 = b1;
-if (min1 > a1) min1 = a1;
-
-Console.Write("max=");
-Console.WriteLine(max1);
-Console.Write("min=");
-Console.WriteLine(min1);
+int replay(string text)
+{Console.Write(text);
+int number=Convert.ToInt32(Console.ReadLine());
+return number;}
+int number1=replay("Введите первое число:");
+int number2=replay("Введите второе число:");
+if(number1>number2)
+{ Console.WriteLine($"Максимальное число={number1}, минимальное число={number2}");}
+if(number1<number2)
+{ Console.WriteLine($"Максимальное число={number2}, минимальное число={number1}");}
+if(number1==number2)
+{ Console.WriteLine($"Вы ввели равные числа");}
