@@ -14,4 +14,4 @@ if(number1>number2)
 if(number1<number2)
 { Console.WriteLine($"Максимальное число={number2}, минимальное число={number1}");}
 if(number1==number2)
-{ Console.WriteLine($"Вы ввели равные числа");}
+{ Console.WriteLine("Вы ввели равные числа");}
