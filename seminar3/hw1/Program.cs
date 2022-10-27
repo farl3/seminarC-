@@ -10,5 +10,22 @@ int Prompt(string message)
     return int.Parse(Console.ReadLine());   // считать строку с консоли и преобразовать в целое значение
 }
 
-int N = Prompt("Введите пятизначное число: ");
 
+int N, A, sum = 0, temp;  // пременные
+N = Prompt("Введите число: ");  // запрос с консоли
+temp = N;
+while (Convert.ToBoolean(N))  // перобразование к равнозначному значению
+{
+    A = N % 10;
+    N = N / 10;
+    sum = sum * 10 + A;
+}
+
+if (temp == sum)
+{
+    System.Console.WriteLine($"число {temp} является палидромом");
+}
+else
+{
+    System.Console.WriteLine($"число {temp} не является палидромом");
+}
