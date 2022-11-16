@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.AssemblyInfo.cs
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\bin\Debug\net6.0\hm2.exe
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\bin\Debug\net6.0\hm2.deps.json
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\bin\Debug\net6.0\hm2.runtimeconfig.json
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\bin\Debug\net6.0\hm2.dll
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\bin\Debug\net6.0\hm2.pdb
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.dll
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\refint\hm2.dll
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.pdb
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\hm2.genruntimeconfig.cache
+C:\Users\user\Desktop\seminarC-\seminar5\hm2\obj\Debug\net6.0\ref\hm2.dll
